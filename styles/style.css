@@ -1,0 +1,80 @@
+P{ 
+    color: #FF4500;
+  font-size: 50px;
+}
+div {  width: 70%;
+      margin: auto;
+      box-shadow:0 0 10px rgba(0,0,0,0.2) ;
+
+      }  
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 30px;
+}
+
+.p1 {color:rgb(255, 255, 255);
+font-size: 30px;
+font-family: 'Akaya Telivigala', cursive;
+}
+
+h2 {
+    color: white;
+}
+
+h1 {color: rgb(255, 255, 255);
+font-size: 60px;
+font-family: 'Akaya Telivigala', cursive;
+
+}
+.d12 {
+    width: 70%;
+    margin: auto;
+  background: url(../imeges/tekstura_fon_tekst_simvoly_50473_1920x1080.jpg);
+}  
+.qwe{
+    background: url(../imeges/tekstura_fon_tekst_simvoly_50473_1920x1080.jpg)
+}
+
+
+.b78{
+text-emphasis: none;
+color: red;
+font-size: 20px;
+display: block;
+margin: 20px;
+
+}
+
+.ca12 {
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+}
+.cs12 {
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+    
+}
+.cc12{
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+}
+.cv12{
+    background:black;
+    width: 70%;
+    margin: auto;
+   
+}
+.fd{
+    background-color: black;
+}
+
+a {
+  display:inline-block ;
+  border-bottom: 1px solid transparent;
+  transition: 0.2% ease-in;
+}
+a:hover{
+ border-bottom-color:red;   
+}
